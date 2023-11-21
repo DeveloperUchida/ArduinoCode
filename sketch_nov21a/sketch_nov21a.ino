@@ -13,7 +13,7 @@
   #define DISAPPEAR 3
 
   // RS, Enable, D4, D5, D6, D7
-  LiquidCrystal lcd(2,3,4,5,6,7);
+  LiquidCrystal lcd(7,8,9,10,11,12);
   // for microfan CLCD-Booster
   //LiquidCrystal lcd(4,3,3,14,15,16,17);
 
